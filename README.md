@@ -1,1 +1,9 @@
 # Automatic-Text-Summarization
+
+Automatic text summarization is the task of producing a concise and fluent summary while preserving key information content and overall meaning. There are broadly two different approaches that are used for text summarization - Extractive Summarization and Abstractive Summarization.
+
+Extractive summarization extracts the most important and meaningful sentences from the text document and forms a summary. Here, a simple text summarizer is built to summarize Wikipedia articles using the extractive method. The top N sentences with the highest scores are extracted for summary generation with the help of Python NLTK library. To fetch the Wikipedia articles from the web, BeautifulSoup library is used.
+
+&nbsp;
+
+![Capture](https://user-images.githubusercontent.com/76877184/103549004-aeed1500-4ecc-11eb-887a-dedd9eb564c5.PNG)
