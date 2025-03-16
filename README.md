@@ -1,4 +1,4 @@
-# Automatic-Text-Summarization
+## Automatic-Text-Summarization
 
 Automatic text summarization is the task of producing a concise and fluent summary while preserving key information content and overall meaning. There are broadly two different approaches that are used for text summarization: Extractive Summarization and Abstractive Summarization.
 
